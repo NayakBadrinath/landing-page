@@ -1,0 +1,22 @@
+.mainContainer{
+    background-image: url(https://res.cloudinary.com/dhesbckj8/image/upload/v1672755027/pic01_zgyk16.png);
+    height: 100vh;
+    background-size: cover;
+}
+
+.mainHeading{
+    color: black;
+    padding-top: 39px;
+    margin-top: 35px;
+    text-align: center;
+}
+
+.image00{
+    height: 300px;
+    width: 250px;
+    background-image: transparent;
+}
+.colosname{
+    color: black;
+    font-weight: bold;
+}
